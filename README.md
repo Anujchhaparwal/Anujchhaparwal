@@ -30,31 +30,45 @@ I'm an Electronics and Telecommunication Engineering graduate exploring Full Sta
 - FastAPI
 - Streamlit
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-**1. Momentum – Full Stack Productivity Dashboard**
+### 1. [Momentum – Full Stack Productivity Dashboard](https://github.com/Anujchhaparwal/momentum)
 
-A productivity application designed to manage tasks, goals, habits and finances.
+A personal productivity application that brings task management, goal tracking, habit streaks, personal finance tracking and analytics together in one place.
 
-- React.js frontend
-- Node.js and Express.js backend
-- MongoDB Atlas database
+**Tech Stack:** React.js · Node.js · Express.js · MongoDB
 
-🔗 [Live Demo](https://momentum-woad-kappa.vercel.app/)
+🔗 [Live Demo](https://momentum-woad-kappa.vercel.app/) | [Source Code](https://github.com/Anujchhaparwal/momentum)
 
-**2. Customer Churn Prediction**
+---
 
-A machine learning application that predicts customer churn using a trained classification model.
+### 2. [Customer Churn Prediction System](https://github.com/Anujchhaparwal/churn_model)
 
-- Python, Pandas, Scikit-learn
-- FastAPI, Streamlit
+An end-to-end machine learning application that predicts telecom customer churn using a trained classification model, with an interactive interface and REST API.
 
-**3. Superstore Sales Dashboard**
+**Tech Stack:** Python · Pandas · Scikit-learn · FastAPI · Streamlit · Docker
 
-An interactive sales analytics dashboard built to explore business performance and generate insights.
+🔗 [Source Code](https://github.com/Anujchhaparwal/churn_model)
 
-- MySQL
-- Power BI
+---
+
+### 3. [Trader Performance vs Market Sentiment](https://github.com/Anujchhaparwal/Trader-Performance-vs-Market-Sentiment)
+
+A data analytics project exploring the relationship between Bitcoin market sentiment and trader performance using historical trading data.
+
+**Tech Stack:** Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
+
+🔗 [Source Code](https://github.com/Anujchhaparwal/Trader-Performance-vs-Market-Sentiment)
+
+---
+
+### 4. [Binance Futures Testnet Trading Bot](https://github.com/Anujchhaparwal/binance-futures-trading-bot)
+
+A Python-based command-line trading bot for Binance Futures Testnet, supporting market and limit orders with input validation, logging and error handling.
+
+**Tech Stack:** Python · Binance API · REST API
+
+🔗 [Source Code](https://github.com/Anujchhaparwal/binance-futures-trading-bot)
 
 ---
 
