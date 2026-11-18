@@ -8,25 +8,27 @@ I'm an Electronics and Telecommunication Engineering graduate exploring Full Sta
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Frontend**
-- HTML, CSS, JavaScript
-- React.js
+### Frontend
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
-**Backend**
-- Node.js, Express.js
-- REST APIs
+### Backend
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
-**Database**
-- MongoDB, MySQL
+### Database
+[![Database Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
-**Tools & Technologies**
-- Git, GitHub, VS Code
-- Python, Pandas, NumPy
-- Power BI, Scikit-learn
+### Programming & Tools
+[![Tools](https://skillicons.dev/icons?i=python,git,github,vscode)](https://skillicons.dev)
 
----
+### Data & Machine Learning
+- Pandas
+- NumPy
+- Scikit-learn
+- Power BI
+- FastAPI
+- Streamlit
 
 ### 🚀 Featured Projects
 
